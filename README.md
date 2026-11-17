@@ -1,3 +1,3 @@
-# Plastic Injection APS
+# 3D FACIAL MODELING AND SURGICAL SIMULATION PLATFORM
 
-Advanced Planning and Scheduling for Plastic Injection Molding. TED University, CMPE 491, Fall 2026, Group 37.
+3D FACIAL MODELING AND SURGICAL SIMULATION PLATFORM FOR AESTHETIC SURGERY TED University, CMPE 491, Fall 2026, Group 37.
